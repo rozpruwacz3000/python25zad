@@ -1,0 +1,55 @@
+[
+    {
+        "name": "Alice",
+        "age": 30,
+        "department": "Sales",
+        "salary": 50000
+    },
+    {
+        "name": "Bob",
+        "age": 24,
+        "department": "Engineering",
+        "salary": 60000
+    },
+    {
+        "name": "Charlie",
+        "age": 29,
+        "department": "Marketing",
+        "salary": 55000
+    },
+    {
+        "name": "Diana",
+        "age": 35,
+        "department": "Human Resources",
+        "salary": 48000
+    },
+    {
+        "imie": "Szymon",
+        "nazwisko": "Puk",
+        "stanowisko": "Kontroler"
+    },
+    {
+        "name": "Cameron Mason",
+        "age": "20",
+        "department": "Cyclist",
+        "salary": "10000"
+    },
+    {
+        "name": "Robert Ratusznik",
+        "age": "19",
+        "department": "Cwel",
+        "salary": "4.99"
+    },
+    {
+        "name": "Igor Rewers",
+        "age": "20",
+        "department": "Akrobata",
+        "salary": "6.99"
+    },
+    {
+        "name": "Rados\u0142aw Rzodeczko",
+        "age": "20",
+        "department": "Mechanik",
+        "salary": "najni\u017cszakrajowa"
+    }
+]
